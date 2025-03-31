@@ -16,20 +16,20 @@
     🖥️ Python Scripting for OSINT & Web Scraping
 
 🚀 Projects & Research:
-  📌 OSINT Case Studies & Reports
-  📌 Custom OSINT Tools & Scripts
-  📌 Dark Web Analysis Reports
+    📌 OSINT Case Studies & Reports
+    📌 Custom OSINT Tools & Scripts
+    📌 Dark Web Analysis Reports
 
 📫 Connect with Me:
 
-  📝 Blog: [Your Website/Medium Link]
+    📝 Blog: [Your Website/Medium Link]
 
-  🔗 LinkedIn: [Your LinkedIn]
+    🔗 LinkedIn: [Your LinkedIn]
 
-  🐦 Twitter: [Your Twitter]
+    🐦 Twitter: [Your Twitter]
 
 🛠️ Tools I Use:
-  Maltego | Shodan | Google Dorking | Spiderfoot |
-  Recon-ng | FOCA | Metagoofil | Bitcoin forensics
+    Maltego | Shodan | Google Dorking | Spiderfoot |
+    Recon-ng | FOCA | Metagoofil | Bitcoin forensics
 
 🔐 Always learning, always investigating!
