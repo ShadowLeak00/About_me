@@ -22,11 +22,11 @@
 
 📫 Connect with Me:
 
-    📝 Blog: [Your Website/Medium Link]
+    📝 Blog: 
 
-    🔗 LinkedIn: [Your LinkedIn]
+    🔗 LinkedIn: 
 
-    🐦 Twitter: [Your Twitter]
+    🐦 Twitter: 
 
 🛠️ Tools I Use:
     Maltego | Shodan | Google Dorking | Spiderfoot |
